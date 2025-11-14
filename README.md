@@ -1,9 +1,9 @@
 # ClassicalCipher-密码学教材中几种古典密码的C语言实现
 
 ## 参考-Reference
-写之前先学习了[ColdmaterL](https://github.com/ColdmaterL)的[Caesar-Cipher](https://github.com/ColdmaterL/Caesar-Cipher)，参考了其中获取控制台输入的方式，感谢😀。
+写之前先学习了[ColdmaterL](https://github.com/ColdmaterL)的[Caesar-Cipher](https://github.com/ColdmaterL/Caesar-Cipher)，参考了其中获取控制台输入的方式。
 
-Learn [ColdmaterL](https://github.com/ColdmaterL)'s [Caesar-Cipher](https://github.com/ColdmaterL/Caesar-Cipher) before coding, refered to his way to obtain console input, thanks a lot~😀
+Learn [ColdmaterL](https://github.com/ColdmaterL)'s [Caesar-Cipher](https://github.com/ColdmaterL/Caesar-Cipher) before coding, refered to his way to obtain console input.
 
 ## 简介-Brief Introduction
 代码为密码学教材("Cryptography Theory and Practice Third Edition")中几种古典密码的C语言实现。通过控制台程序使用。  
@@ -99,7 +99,7 @@ Enter 2 in the main menu to enter the replacement cipher
 ![permutation_decryption](https://github.com/goon-13/ClassicalCipher/blob/main/img/24_permutation_decryption.jpg)
 
 ## 更多-More
-最初是想把教材上的加解密都统一实现的，但刚做到DES就发现使用控制台获取用户输入不方便了...所以还是拆分开来实现。
+最初是想把教材上的加解密都统一实现的，但刚做到DES就发现使用控制台获取用户输入不方便了...
 后续会继续使用C语言实现其他的加解密方式。
 
 At first, I wanted to implement all the encryption and decryption in the textbooks in a unified way, but I found it inconvenient to use the console to obtain user input just after I achieved DES. So I still separated them for implementation.  
