@@ -100,7 +100,6 @@ Enter 2 in the main menu to enter the replacement cipher
 
 ## 更多-More
 最初是想把教材上的加解密都统一实现的，但刚做到DES就发现使用控制台获取用户输入不方便了...
-后续会继续使用C语言实现其他的加解密方式。
 
 At first, I wanted to implement all the encryption and decryption in the textbooks in a unified way, but I found it inconvenient to use the console to obtain user input just after I achieved DES. So I still separated them for implementation.  
 Later, I will continue to use C language to implement other encryption and decryption methods.
